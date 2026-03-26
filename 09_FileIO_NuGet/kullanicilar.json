@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "Ahmet",
+    "Role": "Admin",
+    "Age": 25
+  },
+  {
+    "Name": "Selin",
+    "Role": "Editor",
+    "Age": 30
+  }
+]

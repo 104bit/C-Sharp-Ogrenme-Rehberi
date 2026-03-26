@@ -1,0 +1,2 @@
+Merhaba! Bu metin C# ile tek satir komutla diske yazildi.
+Satir 2
